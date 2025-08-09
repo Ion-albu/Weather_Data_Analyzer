@@ -1,0 +1,36 @@
+[2025-08-09 16:52:15] Vremea în Chișinău:
+  - Temperatură: 33.85°C
+  - Descriere: cer senin
+  - Umiditate: 12%
+  - Viteza vântului: 4.12 m/s
+
+[2025-08-09 16:52:46] Vremea în București:
+  - Temperatură: 34.59°C
+  - Descriere: cer senin
+  - Umiditate: 24%
+  - Viteza vântului: 3.6 m/s
+
+[2025-08-09 16:57:19] Vremea în Iasi:
+  - Temperatură: 31.86°C
+  - Descriere: cer senin
+  - Umiditate: 34%
+  - Viteza vântului: 5.14 m/s
+
+[2025-08-09 16:58:34] Vremea în Chișinău:
+  - Temperatură: 33.85°C
+  - Descriere: cer senin
+  - Umiditate: 13%
+  - Viteza vântului: 4.12 m/s
+
+[2025-08-09 17:19:17] Vremea în Бэлць:
+  - Temperatură: 30.8°C
+  - Descriere: câțiva nori
+  - Umiditate: 38%
+  - Viteza vântului: 6.55 m/s
+
+[2025-08-09 17:21:41] Vremea în Călăraşi:
+  - Temperatură: 30.69°C
+  - Descriere: câțiva nori
+  - Umiditate: 32%
+  - Viteza vântului: 7.2 m/s
+
